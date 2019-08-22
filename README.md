@@ -1,5 +1,7 @@
 # ENGR 120 Robot Project
 
+![Image of Robot](https://github.com/faesalm/ENGR-120/blob/master/55532051_314950109166214_3761898048532250624_n.jpg)
+
 To run code: Download RobotC and connect a VEX Robot. Port setup is provided in header of file. 
 
 
